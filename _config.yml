@@ -24,6 +24,7 @@ description: "Ho Ho Hat!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram_username: kefear.ultimate
+facebook_username: Ultimatekosice
 
 # Build settings
 theme: minima
