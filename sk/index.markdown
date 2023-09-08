@@ -16,7 +16,7 @@ language: sk
 
 .animated_rainbow_1 {
   background-image: -webkit-linear-gradient(left, #f00, #ff2b00, #f50, #ff8000, #fa0, #ffd500, #ff0, #d4ff00, #af0, #80ff00, #5f0, #2bff00, #0f0, #00ff2a, #0f5, #00ff80, #0fa, #00ffd5, #0ff, #00d5ff, #0af, #0080ff, #05f, #002aff, #00f, #2b00ff, #50f, #8000ff, #a0f, #d400ff, #f0f, #ff00d4, #f0a, #ff0080, #f05, #ff002b, #f00);
-  -webkit-animation: animatedBackground_a 5s linear infinite alternate;
+  -webkit-animation: animatedBackground_a 20s linear infinite alternate;
   -webkit-background-clip: text;
   -webkit-text-fill-color: #0000;
   background-clip: text;
@@ -29,7 +29,7 @@ language: sk
 
 </style>
 
-Milí frisbisti a frisbistky, pozývame vás na ďalší ročník košického turnaja Ho Ho Hat! Turnaj je určený pre všetkých hráčov aj nehráčov. Opäť sa môžete tešiť na skvelú vianočnú atmosféru, súťaž o najlepší hat, dobré zápasy a chutné koláče. Nakoľko tento rok je turnaj dvojdňový, pribudne aj oficiálny vianočný turnajový pub quiz!!!
+Milí frisbisti a frisbistky, pozývame vás na ďalší ročník košického turnaja <a class="animated_rainbow_1" style="font-weight: bold; font-size: 20px;">Ho Ho Hat</a> ! Turnaj je určený pre všetkých hráčov aj nehráčov. Opäť sa môžete tešiť na skvelú vianočnú atmosféru, súťaž o najlepší hat, dobré zápasy a chutné koláče. Nakoľko tento rok je turnaj dvojdňový, pribudne aj oficiálny vianočný turnajový pub quiz!!!
 
 <h1 style="text-align: center;">↓↓ REGISTRÁCIA ↓↓</h1>
 
