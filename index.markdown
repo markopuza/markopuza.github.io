@@ -48,7 +48,7 @@ Košice is best accessible with a car or via train/bus connection from the nearb
 ### HOW MUCH?
 
 Thanks to the support of the City of Kosice, the player fee (PF) is only 30€. Includes 2-days of ultimate, Christmas Party, tournament dinner, sleeping in a gym, and more. PF is reduced by 5€ for beginners and juniors, and by a further 10€ if you opt-out from tournament dinner. 
-  (IBAN: SK57 0900 0000 0005 7998 2153 in EUR or through <a href=https://revolut.me/mirosl21>Revolut</a> in whatever currency.)
+  (IBAN: SK57 0900 0000 0005 7998 2153 in EUR or through <a href="https://revolut.me/mirosl21">Revolut</a> in whatever currency.)
 
 ### HOW?
 
