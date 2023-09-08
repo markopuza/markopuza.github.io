@@ -29,15 +29,14 @@ language: sk
 
 </style>
 
-<h1 style="text-align: center;">HO HO HAT</h1>
-
 Milí frisbisti a frisbistky, pozývame vás na ďalší ročník košického turnaja Ho Ho Hat! Turnaj je určený pre všetkých hráčov aj nehráčov. Opäť sa môžete tešiť na skvelú vianočnú atmosféru, súťaž o najlepší hat, dobré zápasy a chutné koláče. Nakoľko tento rok je turnaj dvojdňový, pribudne aj oficiálny vianočný turnajový pub quiz!!!
 
 <h1 style="text-align: center;">↓↓ REGISTRÁCIA ↓↓</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe42J1LtoMleqK9MhkYiA3I97T_Fgza2eT-omgTHCkKgbR7pQ/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe42J1LtoMleqK9MhkYiA3I97T_Fgza2eT-omgTHCkKgbR7pQ/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>  
 
-<h1 style="text-align: center;">FAQ</h1>
+<br/><br/>
+<h1 style="text-align: center;">FAQ</h1>  
 
 ### ČO JE HAT?
 
@@ -57,7 +56,9 @@ Hrá sa 5 na 5 na tvrdom povrchu (hádzanárska hala). Formát turnaja bude cont
 
 ### ZA KOĽKO?
 
-Vďaka podpore mesta Košice, je cena turnaja 30 Eur. Cena zahŕňa 2 dni ultimate, vianočnú párty, turnajovú večeru, prespanie. Cena je znížená o 5 Eur pre nováčikov a juniorov a o (ďalších) 10 Eur bez večere.
+Vďaka podpore mesta Košice, je cena turnaja 30 Eur. Cena zahŕňa 2 dni ultimate, vianočnú párty, turnajovú večeru, prespanie.
+
+Cena je znížená o 5 Eur pre nováčikov a juniorov a o (ďalších) 10 Eur bez večere.
 (IBAN: SK57 0900 0000 0005 7998 2153 v EUR alebo cez <a href="https://revolut.me/mirosl21">Revolut</a> v akejkoľvek mene.)
 
 ### ČO SI PRINIESŤ SO SEBOU?

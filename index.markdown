@@ -29,15 +29,13 @@ language: en
 
 </style>
 
-<h1 style="text-align: center;">HO HO HAT</h1>
-
 Dear frisbee-lovers, another year of Ho Ho Hat is ahead of us! The tournament takes place in the lovely Slovak city of Košice. It's open to players of any level, and is also very friendly towards beginners. As usual, you can expect a cheerful Christmas atmosphere, best hat competition, nice games, and cakes. Once again, the tournament is a two-day event, so you can also expect a special Christmas party!
 
 <h1 style="text-align: center;">↓↓ SIGN-UP ↓↓</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe42J1LtoMleqK9MhkYiA3I97T_Fgza2eT-omgTHCkKgbR7pQ/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe42J1LtoMleqK9MhkYiA3I97T_Fgza2eT-omgTHCkKgbR7pQ/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>  
 
-
+<br/><br/>
 <h1 style="text-align: center;">FAQ</h1>
 
 ### WHAT IS HAT?
@@ -56,7 +54,9 @@ Košice is best accessible with a car or via train/bus connection from the nearb
 
 ### HOW MUCH?
 
-Thanks to the support of the City of Kosice, the player fee (PF) is only 30€. Includes 2-days of ultimate, Christmas Party, tournament dinner, sleeping in a gym, and more. PF is reduced by 5€ for beginners and juniors, and by a further 10€ if you opt-out from tournament dinner. 
+Thanks to the support of the City of Kosice, the player fee (PF) is only 30€. This includes 2-days of ultimate, Christmas Party, tournament dinner, sleeping in a gym, and more.
+
+PF is reduced by 5€ for beginners and juniors, and by a further 10€ if you opt-out from tournament dinner. 
   (IBAN: SK57 0900 0000 0005 7998 2153 in EUR or through <a href="https://revolut.me/mirosl21">Revolut</a> in whatever currency.)
 
 ### HOW?
