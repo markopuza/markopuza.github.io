@@ -27,16 +27,83 @@ language: en
   100% { background-position: -500px 0 }
 }
 
+div.gallery {
+  border: 1px solid #ccc;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.responsive {
+  padding: 6px 6px 6px 6px;
+  float: left;
+  width: 49.99999%;;
+}
+
+@media only screen and (max-width: 700px) {
+  .responsive {
+    width: 49.99999%;
+    margin: 6px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .responsive {
+    width: 100%;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
 </style>
 
 Dear frisbee-lovers, another year of <a class="animated_rainbow_1" style="font-weight: bold; font-size: 20px;">Ho Ho Hat</a> is ahead of us! The tournament takes place in the lovely Slovak city of Košice. It's open to players of any level, and is also very friendly towards beginners. As usual, you can expect a cheerful Christmas atmosphere, best hat competition, nice games, and cakes. Once again, the tournament is a two-day event, so you can also expect a special Christmas party!
 
+
 <h1 style="text-align: center;">↓↓ SIGN-UP ↓↓</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe42J1LtoMleqK9MhkYiA3I97T_Fgza2eT-omgTHCkKgbR7pQ/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe42J1LtoMleqK9MhkYiA3I97T_Fgza2eT-omgTHCkKgbR7pQ/viewform?embedded=true" width="100%" height="480" frameborder="0" marginheight="5" marginwidth="5">Loading…</iframe>  
 
 <br/><br/>
 <h1 style="text-align: center;">FAQ</h1>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat3.jpg" }}">
+      <img src="/assets/hat3.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat4.jpg" }}">
+      <img src="/assets/hat4.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
 
 ### WHAT IS HAT?
 
@@ -73,3 +140,43 @@ Most importantly, there will be a <a class="animated_rainbow_1">Best Hat Competi
 ### CONTACT?
 
 If you have any questions, don't hesitate to contact us at kosice.ultimate@gmail.com or on <a href="https://www.facebook.com/Ultimatekosice">facebook</a>.
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat1.jpg" }}">
+      <img src="/assets/hat1.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat2.jpg" }}">
+      <img src="/assets/hat2.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat5.jpg" }}">
+      <img src="/assets/hat5.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat6.jpg" }}">
+      <img src="/assets/hat6.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
+
