@@ -44,24 +44,23 @@ HAT is a tournament format where players register as individuals and teams are f
 
 ### WHEN?
 
-December 16-17, from 9:00 on Saturday till around 14:00 on Sunday. Let us know below if you need a place to stay on Friday/Saturday night - we'll have a limited number of spots in a sleeping hall.
+**December 16-17**, from 9:00 on Saturday till around 14:00 on Sunday. Let us know below if you need a place to stay on Friday/Saturday night - we'll have a limited number of spots in a sleeping hall.
 
 ### WHERE?
 
-<a href="https://goo.gl/maps/TZL577dL1HTvbYUs7">Sports hall Slavomíra Šípoša, Alejová street 2, Košice</a>
+<a href="https://goo.gl/maps/TZL577dL1HTvbYUs7">Sports hall Slavomíra Šípoša, Alejová street 2, **Košice, Slovakia**</a>
 
 Košice is best accessible with a car or via train/bus connection from the nearby major airports (Budapest 3.5h, Bratislava 4.5h, Vienna 6h, Prague 8.5h)
 
 ### HOW MUCH?
 
-Thanks to the support of the City of Kosice, the player fee (PF) is only 30€. This includes 2-days of ultimate, Christmas Party, tournament dinner, sleeping in a gym, and more.
+Player fee (PF) will be around **30-35€**, depending on the number of registered players (exact sum will be determined in mid-October). This includes 2-days of ultimate, Christmas Party, tournament dinner, sleeping in a gym, and more. 
 
-PF is reduced by 5€ for beginners and juniors, and by a further 10€ if you opt-out from tournament dinner. 
-  (IBAN: SK57 0900 0000 0005 7998 2153 in EUR or through <a href="https://revolut.me/mirosl21">Revolut</a> in whatever currency.)
+PF is reduced by 5€ for beginners and juniors, and by 10€ if you opt-out from the tournament dinner. (IBAN: SK57 0900 0000 0005 7998 2153 in EUR or through <a href="https://revolut.me/mirosl21">Revolut</a> in whatever currency.)
 
 ### HOW?
 
-We will play continuous 5v5 on hardcourt (handball court).
+We will play continuous 5v5 on hardcourt (indoor, handball court).
 
 ### WHAT SHOULD I BRING?
 
