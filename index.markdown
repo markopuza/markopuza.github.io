@@ -111,7 +111,7 @@ HAT is a tournament format where players register as individuals and teams are f
 
 ### WHEN?
 
-**December 16-17**, from 9:00 on Saturday till around 14:00 on Sunday. Let us know below if you need a place to stay on Friday/Saturday night - we'll have a limited number of spots in a sleeping hall.
+**December 16-17**, from 9am (hall opens 8:45) on Saturday till 14:00 on Sunday. Let us know below if you need a place to stay on Friday/Saturday night - we'll have a limited number of spots in a sleeping hall.
 
 ### WHERE?
 
@@ -121,9 +121,7 @@ Košice is best accessible with a car or via train/bus connection from the nearb
 
 ### HOW MUCH?
 
-Player fee (PF) will be around **30-35€**, depending on the number of registered players (exact sum will be determined in mid-October). This includes 2-days of ultimate, Christmas Party, tournament dinner, sleeping in a gym, and more. 
-
-PF is reduced by 5€ for beginners and juniors, and by 10€ if you opt-out from the tournament dinner. (IBAN: SK57 0900 0000 0005 7998 2153 in EUR or through <a href="https://revolut.me/mirosl21">Revolut</a> in whatever currency.)
+Player fee (PF) is set to **21€**. The fee is reduced by 10 Eur if you are a junior or a new player (Thanks to <a href="https://szf.sk/">Slovenska Asociacia Frisbee</a>!). This includes 2-days of ultimate, Christmas Party, sleeping in a gym, and more. 
 
 ### HOW?
 

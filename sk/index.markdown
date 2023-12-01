@@ -109,7 +109,7 @@ HAT je turnaj, kde sa hráči registrujú individuálne a tímy sú sformované 
 
 ### KEDY?
 
-<p> **16. až 17. decembra**. Začiatok o 9:00 v sobotu, turnaj končí okolo 14:00 v nedeľu. Ak potrebuješ ubytovanie v piatok a sobotu, daj nám vedieť nižšie - máme k dispozícii limitovaný počet miest v spacej hale.</p>
+<p> **16. až 17. decembra**. Začiatok o 9:00 v sobotu (hala sa otvára o 8:45), turnaj končí okolo 14:00 v nedeľu. Ak potrebuješ ubytovanie v piatok a sobotu, daj nám vedieť nižšie - máme k dispozícii limitovaný počet miest v spacej hale.</p>
 
 ### KDE?
 
@@ -121,9 +121,7 @@ Hrá sa 5 na 5 na tvrdom povrchu (hádzanárska hala). Formát turnaja bude cont
 
 ### ZA KOĽKO?
 
-Cena turnaja bude cca **30-35 Eur**, podľa počtu hráčov - presnú sumu budeme vedieť v polovici Októbra. Cena zahŕňa 2 dni ultimate, vianočnú párty, turnajovú večeru, prespanie.
-
-Cena je znížená o 5 Eur pre nováčikov a juniorov a o (ďalších) 10 Eur bez večere. (IBAN: SK57 0900 0000 0005 7998 2153 v EUR alebo cez <a href="https://revolut.me/mirosl21">Revolut</a> v akejkoľvek mene.)
+Cena turnaja je **21 Eur**. Cena je znížená o 10 Eur pre nováčikov a juniorov (Vďaka <a href="https://szf.sk/">Slovenskej Asociácii Frisbee</a>!). Cena zahŕňa 2 dni ultimate, vianočnú párty, turnajovú večeru, prespanie.
 
 ### ČO SI PRINIESŤ SO SEBOU?
 
