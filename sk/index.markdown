@@ -188,7 +188,7 @@ V prípade otázok napíšte na kosice.ultimate@gmail.com alebo správu na <a hr
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="{{ site.baseurl | append: "/assets/hat7.jpg" }}">
-      <img src="/assets/hat6.jpg" width="600" height="400">
+      <img src="/assets/hat7.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
   </div>
