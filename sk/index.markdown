@@ -87,7 +87,7 @@ Milí frisbisti a frisbistky, pozývame vás na ďalší ročník košického tu
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat3.jpg" }}">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat8.jpg" }}">
       <img src="/assets/hat3.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
@@ -96,7 +96,7 @@ Milí frisbisti a frisbistky, pozývame vás na ďalší ročník košického tu
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat4.jpg" }}">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat9.jpg" }}">
       <img src="/assets/hat4.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
@@ -123,7 +123,7 @@ Hrá sa 5 na 5 na tvrdom povrchu (hádzanárska hala). Formát turnaja bude cont
 
 Cena turnaja je **16 Eur**. Cena je znížená na **8 Eur** pre nováčikov a juniorov, alebo ak by ste sa z hociakého dôvodu kvôli vyššej cene nemohli zúčastniť. 
 
-Detaily na platbu vám pošleme po registrácii.
+Detaily na platbu vám pošleme po registrácii
 
 ### ČO SI PRINIESŤ SO SEBOU?
 
@@ -156,6 +156,25 @@ V prípade otázok napíšte na kosice.ultimate@gmail.com alebo správu na <a hr
   </div>
 </div>
 
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat3.jpg" }}">
+      <img src="/assets/hat1.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat4.jpg" }}">
+      <img src="/assets/hat2.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
+
 
 <div class="responsive">
   <div class="gallery">
@@ -168,11 +187,12 @@ V prípade otázok napíšte na kosice.ultimate@gmail.com alebo správu na <a hr
 
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat6.jpg" }}">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat7.jpg" }}">
       <img src="/assets/hat6.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
   </div>
 </div>
+
 
 <div class="clearfix"></div>
