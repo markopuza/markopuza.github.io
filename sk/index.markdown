@@ -88,7 +88,7 @@ Milí frisbisti a frisbistky, pozývame vás na ďalší ročník košického tu
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="{{ site.baseurl | append: "/assets/hat8.jpg" }}">
-      <img src="/assets/hat3.jpg" width="600" height="400">
+      <img src="/assets/hat8.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
   </div>
@@ -97,7 +97,7 @@ Milí frisbisti a frisbistky, pozývame vás na ďalší ročník košického tu
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="{{ site.baseurl | append: "/assets/hat9.jpg" }}">
-      <img src="/assets/hat4.jpg" width="600" height="400">
+      <img src="/assets/hat9.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
   </div>
@@ -159,7 +159,7 @@ V prípade otázok napíšte na kosice.ultimate@gmail.com alebo správu na <a hr
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="{{ site.baseurl | append: "/assets/hat3.jpg" }}">
-      <img src="/assets/hat1.jpg" width="600" height="400">
+      <img src="/assets/hat3.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
   </div>
@@ -169,7 +169,7 @@ V prípade otázok napíšte na kosice.ultimate@gmail.com alebo správu na <a hr
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="{{ site.baseurl | append: "/assets/hat4.jpg" }}">
-      <img src="/assets/hat2.jpg" width="600" height="400">
+      <img src="/assets/hat4.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
   </div>

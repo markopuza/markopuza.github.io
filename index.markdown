@@ -90,7 +90,7 @@ Dear frisbee-lovers, another year of <a class="animated_rainbow_1" style="font-w
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="{{ site.baseurl | append: "/assets/hat8.jpg" }}">
-      <img src="/assets/hat3.jpg" width="600" height="400">
+      <img src="/assets/hat8.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
   </div>
@@ -99,7 +99,7 @@ Dear frisbee-lovers, another year of <a class="animated_rainbow_1" style="font-w
 <div class="responsive">
   <div class="gallery">
     <a target="_blank" href="{{ site.baseurl | append: "/assets/hat9.jpg" }}">
-      <img src="/assets/hat4.jpg" width="600" height="400">
+      <img src="/assets/hat9.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
   </div>
@@ -156,6 +156,25 @@ If you have any questions, don't hesitate to contact us at kosice.ultimate@gmail
   <div class="gallery">
     <a target="_blank" href="{{ site.baseurl | append: "/assets/hat2.jpg" }}">
       <img src="/assets/hat2.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat3.jpg" }}">
+      <img src="/assets/hat3.jpg" width="600" height="400">
+    </a>
+    <div class="desc"></div>
+  </div>
+</div>
+
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl | append: "/assets/hat4.jpg" }}">
+      <img src="/assets/hat4.jpg" width="600" height="400">
     </a>
     <div class="desc"></div>
   </div>
