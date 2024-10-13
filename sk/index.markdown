@@ -80,7 +80,7 @@ Milí frisbisti a frisbistky, pozývame vás na ďalší ročník košického tu
 
 <h1 style="text-align: center;">↓↓ REGISTRÁCIA ↓↓</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe42J1LtoMleqK9MhkYiA3I97T_Fgza2eT-omgTHCkKgbR7pQ/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="5" marginwidth="5">Loading…</iframe>  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBIi-ktAdFL2_xXMDYFIbGyxA9R32XUryOJXRtXPlBRdsQ2g/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="5" marginwidth="5">Loading…</iframe>  
 
 <br/><br/>
 <h1 style="text-align: center;">FAQ</h1>  
@@ -109,11 +109,11 @@ HAT je turnaj, kde sa hráči registrujú individuálne a tímy sú sformované 
 
 ### KEDY?
 
-<p> **16. až 17. decembra**. Začiatok o 9:00 v sobotu (hala sa otvára o 8:45), turnaj končí okolo 14:00 v nedeľu. Ak potrebuješ ubytovanie v piatok a sobotu, daj nám vedieť nižšie - máme k dispozícii limitovaný počet miest v spacej hale.</p>
+<p> **21. až 22. decembra**, presný čas TBD (okolo 9-17:00 v sobotu a 9-14:00 v nedeľu). Ak potrebuješ ubytovanie v piatok a sobotu, daj nám vedieť nižšie - máme k dispozícii limitovaný počet miest v spacej hale.</p>
 
 ### KDE?
 
-<a href="https://goo.gl/maps/TZL577dL1HTvbYUs7">**V Košiciach**, v hádzanárskej hale Slavomíra Šípoša na Alejovej 2</a>
+<a href="https://maps.app.goo.gl/Mng4kjmuHbsinxjM7">**V Košiciach**, v športovej hale SOŠ Ostrovského 1</a>
 
 ### AKO?
 
@@ -121,7 +121,9 @@ Hrá sa 5 na 5 na tvrdom povrchu (hádzanárska hala). Formát turnaja bude cont
 
 ### ZA KOĽKO?
 
-Cena turnaja je **21 Eur**. Cena je znížená o 10 Eur pre nováčikov a juniorov (Vďaka <a href="https://szf.sk/">Slovenskej Asociácii Frisbee</a>!). Cena zahŕňa 2 dni ultimate, vianočnú párty, turnajovú večeru, prespanie.
+Cena turnaja je **16 Eur**. Cena je znížená na **8 Eur** pre nováčikov a juniorov, alebo ak by ste sa z hociakého dôvodu kvôli vyššej cene nemohli zúčastniť. 
+
+Detaily na platbu vám pošleme po registrácii.
 
 ### ČO SI PRINIESŤ SO SEBOU?
 

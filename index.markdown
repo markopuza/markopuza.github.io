@@ -82,7 +82,7 @@ Dear frisbee-lovers, another year of <a class="animated_rainbow_1" style="font-w
 
 <h1 style="text-align: center;">↓↓ SIGN-UP ↓↓</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe42J1LtoMleqK9MhkYiA3I97T_Fgza2eT-omgTHCkKgbR7pQ/viewform?embedded=true" width="100%" height="480" frameborder="0" marginheight="5" marginwidth="5">Loading…</iframe>  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBIi-ktAdFL2_xXMDYFIbGyxA9R32XUryOJXRtXPlBRdsQ2g/viewform?embedded=true" width="100%" height="480" frameborder="0" marginheight="5" marginwidth="5">Loading…</iframe>  
 
 <br/><br/>
 <h1 style="text-align: center;">FAQ</h1>
@@ -111,17 +111,19 @@ HAT is a tournament format where players register as individuals and teams are f
 
 ### WHEN?
 
-**December 16-17**, from 9am (hall opens 8:45) on Saturday till 14:00 on Sunday. Let us know below if you need a place to stay on Friday/Saturday night - we'll have a limited number of spots in a sleeping hall.
+**December 21-22**, exact times TBD (around 9-17:00 on Sat and 9-14:00 on Sun). Let us know below if you need a place to stay on Friday/Saturday night - we'll have a limited number of spots in a sleeping hall.
 
 ### WHERE?
 
-<a href="https://goo.gl/maps/TZL577dL1HTvbYUs7">Sports hall Slavomíra Šípoša, Alejová street 2, **Košice, Slovakia**</a>
+<a href="https://maps.app.goo.gl/Mng4kjmuHbsinxjM7">Sports hall SOŠ Ostrovského 1, **Košice, Slovakia**</a>
 
 Košice is best accessible with a car or via train/bus connection from the nearby major airports (Budapest 3.5h, Bratislava 4.5h, Vienna 6h, Prague 8.5h)
 
 ### HOW MUCH?
 
-Player fee (PF) is set to **21€**. The fee is reduced by 10 Eur if you are a junior or a new player (Thanks to <a href="https://szf.sk/">Slovenska Asociacia Frisbee</a>!). This includes 2-days of ultimate, Christmas Party, sleeping in a gym, and more. 
+Player fee (PF) is set to **16€**. Reduced player fee is **8€** (you can pay the reduced fee if you are a junior player, a new player, or if the regular PF would prevent you from attending for whatever reason). 
+
+You will receive the payment details after registration.
 
 ### HOW?
 
