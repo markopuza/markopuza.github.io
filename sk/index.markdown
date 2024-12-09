@@ -109,7 +109,7 @@ HAT je turnaj, kde sa hráči registrujú individuálne a tímy sú sformované 
 
 ### KEDY?
 
-<p> **21. až 22. decembra**, presný čas TBD (okolo 9-17:00 v sobotu a 9-14:00 v nedeľu). Ak potrebuješ ubytovanie v piatok a sobotu, daj nám vedieť nižšie - máme k dispozícii limitovaný počet miest v spacej hale.</p>
+**21. až 22. decembra**, ( 9-17:00 v sobotu a 9-14:00 v nedeľu). Ak potrebuješ ubytovanie v piatok a sobotu, daj nám vedieť nižšie - máme k dispozícii limitovaný počet miest v spacej hale.
 
 ### KDE?
 
@@ -136,6 +136,10 @@ Súčasťou hatka bude tiež <a class="animated_rainbow_1">súťaž o najlepší
 ### KONTAKT?
 
 V prípade otázok napíšte na kosice.ultimate@gmail.com alebo správu na <a href="https://www.facebook.com/Ultimatekosice">facebook</a>.
+
+### PODPORA
+
+Na záver, veľká vďaka <a href="https://szf.sk/">Slovenskej Asociácii Frisbee</a> za podporu turnaja, a vianočnému stánku <a href="https://bit.ly/3ZeRWiI?r=qr">U Tekutého Svetra</a>, ktorý nás bude zásobovať lahodnými nápojmi počas celého víkendu.
 
 <div class="responsive">
   <div class="gallery">

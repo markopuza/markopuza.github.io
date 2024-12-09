@@ -111,7 +111,7 @@ HAT is a tournament format where players register as individuals and teams are f
 
 ### WHEN?
 
-**December 21-22**, exact times TBD (around 9-17:00 on Sat and 9-14:00 on Sun). Let us know below if you need a place to stay on Friday/Saturday night - we'll have a limited number of spots in a sleeping hall.
+**December 21-22**, (9-17:00 on Sat and 9-14:00 on Sun). Let us know below if you need a place to stay on Friday/Saturday night - we'll have a limited number of spots in a sleeping hall.
 
 ### WHERE?
 
@@ -140,6 +140,10 @@ Most importantly, there will be a <a class="animated_rainbow_1">Best Hat Competi
 ### CONTACT?
 
 If you have any questions, don't hesitate to contact us at kosice.ultimate@gmail.com or on <a href="https://www.facebook.com/Ultimatekosice">facebook</a>.
+
+### SUPPORT
+
+Last but not least, big thanks to the <a href="https://szf.sk/">Slovak Association of Frisbee</a> for supporting the tournament, and to <a href="https://bit.ly/3ZeRWiI?r=qr">U Tekuteho Svetra</a> Christmas market stand, which will be providing us with lovely hot beverages throughout the weekend.
 
 
 <div class="responsive">
@@ -198,4 +202,3 @@ If you have any questions, don't hesitate to contact us at kosice.ultimate@gmail
     <div class="desc"></div>
   </div>
 </div>
-
