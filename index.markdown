@@ -77,12 +77,14 @@ div.desc {
 
 </style>
 
-Dear frisbee-lovers, another year of <a class="animated_rainbow_1" style="font-weight: bold; font-size: 20px;">Ho Ho Hat</a> is ahead of us! The tournament takes place in the lovely Slovak city of Košice. It's open to players of any level, and is also very friendly towards beginners. As usual, you can expect a cheerful Christmas atmosphere, best hat competition, nice games, and cakes. Once again, the tournament is a two-day event, so you can also expect a special Christmas party!
+🎄 Ho Ho Hat 2025 is coming! 🎅🧦
+
+Dear frisbee-lovers, another year of <a class="animated_rainbow_1" style="font-weight: bold; font-size: 20px;">Ho Ho Hat</a> is ahead of us! Join us in the lovely city of Košice on December 20–21 for a fun, friendly and festive ultimate weekend. Expect Christmas vibes, great games, cakes, a party, and the legendary Best Hat Competition! 🎩✨
 
 
 <h1 style="text-align: center;">↓↓ SIGN-UP ↓↓</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBIi-ktAdFL2_xXMDYFIbGyxA9R32XUryOJXRtXPlBRdsQ2g/viewform?embedded=true" width="100%" height="480" frameborder="0" marginheight="5" marginwidth="5">Loading…</iframe>  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmmbI_157YznXTaAdFVMj8O9o99_5Ao4au1ZB6FdoYqIvdPQ/viewform?fbclid=IwY2xjawOFYBlleHRuA2FlbQIxMABicmlkETFySDVLNkdheXphM0FlOHFic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MghjYWxsc2l0ZQEyAAEe_vuPG5BL1zm6-TQiMoE-eK4aQEK7Lz4TEyGtb7i7qT0sq71NXjHrUVCVSgw_aem_sq-emcrXscf3J0dOyO_e4w" width="100%" height="640" frameborder="0" marginheight="5" marginwidth="5">Loading…</iframe>  
 
 <br/><br/>
 <h1 style="text-align: center;">FAQ</h1>
@@ -111,23 +113,24 @@ HAT is a tournament format where players register as individuals and teams are f
 
 ### WHEN?
 
-**December 21-22**, (9-17:00 on Sat and 9-14:00 on Sun). Let us know below if you need a place to stay on Friday/Saturday night - we'll have a limited number of spots in a sleeping hall.
+**20–21 December**  
+🕣 Sat 8:30–17:30  
+🕘 Sun 9:00–14:00  
+🛌 Limited sleeping spots for Fri/Sat — let us know in the form.
 
 ### WHERE?
 
-<a href="https://maps.app.goo.gl/Mng4kjmuHbsinxjM7">Sports hall SOŠ Ostrovského 1, **Košice, Slovakia**</a>
+<a href="https://maps.app.goo.gl/Nt6fT2HJdTSNMFGz7">Multi Hall (Slavomíra Šípoša), Alejová 2, **Košice, Slovakia**</a>
 
 Košice is best accessible with a car or via train/bus connection from the nearby major airports (Budapest 3.5h, Bratislava 4.5h, Vienna 6h, Prague 8.5h)
 
 ### HOW MUCH?
 
-Player fee (PF) is set to **16€**. Reduced player fee is **8€** (you can pay the reduced fee if you are a junior player, a new player, or if the regular PF would prevent you from attending for whatever reason). 
-
-You will receive the payment details after registration.
+Player fee (PF) is set to **25€**. Reduced player fee is **15€** (you can pay the reduced fee if you are a junior player, a new player, or if the regular PF would prevent you from attending for whatever reason). 
 
 ### HOW?
 
-We will play continuous 5v5 on hardcourt (indoor, handball court).
+5v5 indoor on hardcourt. Final schedule will be shared soon.
 
 ### WHAT SHOULD I BRING?
 

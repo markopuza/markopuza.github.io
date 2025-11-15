@@ -76,11 +76,13 @@ div.desc {
 
 </style>
 
-Milí frisbisti a frisbistky, pozývame vás na ďalší ročník košického turnaja <a class="animated_rainbow_1" style="font-weight: bold; font-size: 20px;">Ho Ho Hat</a> ! Turnaj je určený pre všetkých hráčov aj nehráčov. Opäť sa môžete tešiť na skvelú vianočnú atmosféru, súťaž o najlepší hat, dobré zápasy a chutné koláče. Nakoľko tento rok je turnaj dvojdňový, pribudne aj oficiálny vianočný turnajový pub quiz!!!
+🎄 Ho Ho Hat 2025 je tu! 🎅🧦
+
+Milí frisbisti a frisbistky, pozývame vás na ďalší ročník <a class="animated_rainbow_1" style="font-weight: bold; font-size: 20px;">Ho Ho Hat</a> v Košiciach 20.–21. decembra! Čaká vás priateľský, veselý a poriadne vianočný ultimate víkend. Tešte sa na super zápasy, koláče, vianočnú párty a legendárnu súťaž o najlepší hat! 🎩✨
 
 <h1 style="text-align: center;">↓↓ REGISTRÁCIA ↓↓</h1>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfBIi-ktAdFL2_xXMDYFIbGyxA9R32XUryOJXRtXPlBRdsQ2g/viewform?embedded=true" width="100%" height="640" frameborder="0" marginheight="5" marginwidth="5">Loading…</iframe>  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmmbI_157YznXTaAdFVMj8O9o99_5Ao4au1ZB6FdoYqIvdPQ/viewform?fbclid=IwY2xjawOFYBlleHRuA2FlbQIxMABicmlkETFySDVLNkdheXphM0FlOHFic3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MghjYWxsc2l0ZQEyAAEe_vuPG5BL1zm6-TQiMoE-eK4aQEK7Lz4TEyGtb7i7qT0sq71NXjHrUVCVSgw_aem_sq-emcrXscf3J0dOyO_e4w" width="100%" height="640" frameborder="0" marginheight="5" marginwidth="5">Loading…</iframe>  
 
 <br/><br/>
 <h1 style="text-align: center;">FAQ</h1>  
@@ -109,21 +111,22 @@ HAT je turnaj, kde sa hráči registrujú individuálne a tímy sú sformované 
 
 ### KEDY?
 
-**21. až 22. decembra**, ( 9-17:00 v sobotu a 9-14:00 v nedeľu). Ak potrebuješ ubytovanie v piatok a sobotu, daj nám vedieť nižšie - máme k dispozícii limitovaný počet miest v spacej hale.
+**20.–21. december**  
+🕣 Sobota 8:30–17:30   
+🕘 Nedeľa 9:00–14:00  
+🛌 Ak potrebuješ ubytovanie v piatok/sobotu, uveď to vo formulári – kapacita je obmedzená.
 
 ### KDE?
 
-<a href="https://maps.app.goo.gl/Mng4kjmuHbsinxjM7">**V Košiciach**, v športovej hale SOŠ Ostrovského 1</a>
+<a href="https://maps.app.goo.gl/Nt6fT2HJdTSNMFGz7">Multihala Slavomíra Šípoša, Alejova 2, Košice</a>
 
 ### AKO?
 
-Hrá sa 5 na 5 na tvrdom povrchu (hádzanárska hala). Formát turnaja bude continuous.
+Hrá sa 5 na 5, indoor, tvrdý povrch. Detailný rozpis zverejníme pred turnajom.
 
 ### ZA KOĽKO?
 
-Cena turnaja je **16 Eur**. Cena je znížená na **8 Eur** pre nováčikov a juniorov, alebo ak by ste sa z hociakého dôvodu kvôli vyššej cene nemohli zúčastniť. 
-
-Detaily na platbu vám pošleme po registrácii
+Cena turnaja je **25 Eur**. Cena je znížená na **15 Eur** pre nováčikov a juniorov, alebo ak by ste sa z hociakého dôvodu kvôli vyššej cene nemohli zúčastniť. 
 
 ### ČO SI PRINIESŤ SO SEBOU?
 
